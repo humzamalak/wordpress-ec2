@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.coverage
+.venv/
+**/.terraform/
+**/.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+.ruff_cache/
